@@ -80,12 +80,6 @@ The system is designed with extensibility to support advanced smart farming feat
 
 ---
 
-## 📷 Project Images
----
-
-
----
-
 ## 💻 Software
 - Arduino IDE  
 - Embedded C / C++ for ESP32  
